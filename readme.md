@@ -4,6 +4,6 @@ Kosovo - AIRLANE
 **Developed by *Elma Kamberi , Jeta Limani, Engjellusha Ballazhi*
 
 
-## **Default Admin Access**
+## **Kyqja per ADMIN Panelin**
 **username: admin**
 **password: admin123**
